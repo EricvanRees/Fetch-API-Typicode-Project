@@ -1,0 +1,25 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button {
+  width: 75px;
+  background-color:coral;
+  color: whitesmoke;
+  border-radius: 5px;
+}
+
+.done {
+  background-color: darkgrey;
+}
+
+#todo-list {
+  margin-top: 20px;
+}
+
+#todo-list div {
+  display: inline-block;
+  border: 1px solid darkgray;
+  padding: 2px;
+  margin: 5px;
+}
